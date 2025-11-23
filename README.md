@@ -138,6 +138,8 @@ In **Updates and Servicing**:
 
 ---
 
+![MECM Updates and Servicing](images/mecm-updates-and-servicing.png)
+
 ## Final State
 
 - Update installed  
