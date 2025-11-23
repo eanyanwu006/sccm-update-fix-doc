@@ -138,7 +138,10 @@ In **Updates and Servicing**:
 
 ---
 
-![MECM Updates and Servicing](images/mecm-updates-and-servicing.png)
+<p align="center">
+  <img src="https://github.com/eanyanwu006/sccm-update-fix-doc/raw/main/mecm-updates-and-servicing.png" alt="MECM Updates and Servicing" width="800">
+</p>
+
 
 ## Final State
 
