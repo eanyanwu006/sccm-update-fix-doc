@@ -147,10 +147,11 @@ In **Updates and Servicing**:
 - Threads running normally  
 - Site healthy  
 
+---
 
 ## MECM 9135 Update Installed (Updates and Servicing View)
 
- Final Update and Servixing State in Console
+ Final Update and Servicing State in Console
 
 <p align="center">
   <img src="https://github.com/eanyanwu006/sccm-update-fix-doc/raw/main/mecm-updates-and-servicing.png" alt="MECM Updates and Servicing" width="800">
